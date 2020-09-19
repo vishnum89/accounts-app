@@ -33,4 +33,44 @@ public class Account {
     public void setAccountNumber(int accountNumber) {
         this.accountNumber = accountNumber;
     }
+
+    public String getAccountName() {
+        return accountName;
+    }
+
+    public void setAccountName(String accountName) {
+        this.accountName = accountName;
+    }
+
+    public String getAccountType() {
+        return accountType;
+    }
+
+    public void setAccountType(String accountType) {
+        this.accountType = accountType;
+    }
+
+    public Date getBalanceData() {
+        return balanceData;
+    }
+
+    public void setBalanceData(Date balanceData) {
+        this.balanceData = balanceData;
+    }
+
+    public String getCurrency() {
+        return currency;
+    }
+
+    public void setCurrency(String currency) {
+        this.currency = currency;
+    }
+
+    public double getOpeningAvlBal() {
+        return openingAvlBal;
+    }
+
+    public void setOpeningAvlBal(double openingAvlBal) {
+        this.openingAvlBal = openingAvlBal;
+    }
 }
