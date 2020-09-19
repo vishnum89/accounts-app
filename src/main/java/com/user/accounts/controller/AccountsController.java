@@ -1,7 +1,7 @@
-package com.user.accounts.accounts.com.user.accounts.controller;
+package com.user.accounts.controller;
 
-import com.user.accounts.accounts.com.user.accounts.accounts.com.user.accounts.service.AccountsService;
-import com.user.accounts.accounts.com.user.accounts.model.Account;
+import com.user.accounts.service.AccountsService;
+import com.user.accounts.model.Account;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

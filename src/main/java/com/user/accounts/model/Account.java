@@ -1,4 +1,4 @@
-package com.user.accounts.accounts.com.user.accounts.model;
+package com.user.accounts.model;
 
 import java.util.Date;
 

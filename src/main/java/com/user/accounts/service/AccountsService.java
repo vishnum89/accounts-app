@@ -1,6 +1,6 @@
-package com.user.accounts.accounts.com.user.accounts.accounts.com.user.accounts.service;
+package com.user.accounts.service;
 
-import com.user.accounts.accounts.com.user.accounts.model.Account;
+import com.user.accounts.model.Account;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

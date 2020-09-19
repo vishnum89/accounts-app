@@ -1,4 +1,4 @@
-package com.user.accounts.accounts;
+package com.user.accounts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
